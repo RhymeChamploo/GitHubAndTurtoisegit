@@ -1,1 +1,3 @@
 # GitHubAndTurtoisegit
+Push from local repository was successfully done by referring to... 
+http://dancingmonkeysaccelerated.blogspot.co.uk/2012/03/git-for-windows-with-tortoisegit-and.html
